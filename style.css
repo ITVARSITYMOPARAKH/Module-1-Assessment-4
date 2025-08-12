@@ -1,0 +1,28 @@
+th{
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: cornflowerblue;
+    color: #ffffff
+        
+}
+table{
+    font-family:Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+    border-width: 3px;
+    border-style: solid;
+        border-color: #0d3989;
+    
+    width: 100%;
+    
+    margin: 25px 0;
+    font-size: 0.9em;
+
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+    
+h1{
+    color: #4375cd;
+    text-align-last: center;
+    
+}
